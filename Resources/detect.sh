@@ -4,7 +4,7 @@ set -e
 cd "$(dirname "$0")"
 
 while read path; do
-	path=$(eval "echo $path")
+    path=$(eval "echo $path")
     if [ -e "$path" ]; then
         exit 0
     fi
