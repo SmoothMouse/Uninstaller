@@ -1,4 +1,6 @@
-# SmoothMouse Uninstaller
+# SmoothMouse Uninstaller / [download](//github.com/SmoothMouse/Uninstaller/files/560840/SmoothMouse.Uninstaller.zip)
+
+
 
 The uninstaller removes all traces of [SmoothMouse](http://smoothmouse.com) from the system, including user preferences and even package receipts. It’s a slightly better version of the uninstaller that comes with SmoothMouse.
 
