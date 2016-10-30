@@ -1,0 +1,11 @@
+"UNEXPECTED" = "An unexpected error occurred. SmoothMouse was not removed from this computer. Please email the screenshot of this message to support@smoothmouse.com.";
+
+"NOT_INSTALLED" = "SmoothMouse is not installed on this computer.";
+
+"WELCOME" = "You are about to remove SmoothMouse from this computer. Click “Confirm” to proceed.";
+
+"CANCEL" = "Cancel";
+
+"CONFIRM" = "Confirm";
+
+"SUCCESS" = "SmoothMouse has been successfully removed from this computer.";

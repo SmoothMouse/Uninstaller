@@ -1,0 +1,9 @@
+/Library/PreferencePanes/SmoothMouse.prefPane
+/Library/Extensions/SmoothMouse.kext
+/System/Library/Extensions/SmoothMouse.kext
+$HOME/Library/LaunchAgents/com.cyberic.smoothmouse.plist
+$HOME/Library/LaunchAgents/com.cyberic.smoothmouseupdater.plist
+$HOME/Library/Preferences/com.cyberic.SmoothMouse.plist
+$HOME/Library/Preferences/com.cyberic.SmoothMouseUpdater.plist
+$HOME/Library/Caches/com.cyberic.SmoothMouseUpdater
+/usr/bin/smoothmouse
